@@ -1,14 +1,14 @@
 Jeffrey's Master Ban List
 
 I. Smash - Super Smash Bros.
-/tA. Jeffrey is banned from interacting with the Super Smash Bros. Franchise in any form: 
+A. Jeffrey is banned from interacting with the Super Smash Bros. Franchise in any form: 
 /t"interacting" defined as: viewing, spectating or otherwise playing any iteration of the franchise. 
-Ia. Smash Derivative Clause
-/tA. Jeffrey is additionally banned from interacting (IA) with any IPs that are derivatives of the Super Smash Brothers Franchise. 
-/t"Derivative" defined as: imitative or based on the Super Smash Bros. Franchise in any formal capacity.
-/tNoted qualifying derivatives: 
-/t/t Rivals of Aether
-/t/t Super Smash Flash (as well as any incremental entry)
+B. Smash Derivative Clause
+/t1. Jeffrey is additionally banned from interacting (IA) with any IPs that are derivatives of the Super Smash Brothers Franchise. 
+/t1.2. "Derivative" defined as: imitative or based on the Super Smash Bros. Franchise in any formal capacity.
+/t2. Noted qualifying derivatives: 
+/t/t2.1: Rivals of Aether
+/t/t2.2: Super Smash Flash (as well as any incremental entry)
 
 II. Anime
 /tA. TODO

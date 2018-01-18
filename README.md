@@ -37,6 +37,9 @@ of terms in response to the breach.
 Any and all arbitration will be directed to the parties: Joshua Ehling and Devin Matté. Responses to breach cases must first
 affirm proper exhaustion of remedies before hearing appeal. 
 
+# Contractual Changes
+Any and all changes to this contract must be approved by either Joshua Ehling or Devin Matté. 
+
 # Forbearance
 ## I. General Video Game Ban
 Jeffrey is hereby banned from playing any and all video games, unless otherwise stated within this document. 
@@ -63,15 +66,21 @@ Jeffrey is hereby banned from any and all Anime consumption, unless otherwise st
 	* funimation.com
 	* viz.com (VizAnime)
 	* roosterteeth.com
-## II.1 Late Night Animoon Exception
+## II.A Late Night Animoon Exception
 Jeffrey is *generally* permitted to view anime during the hours of an active Late Night Animoon session.
 These hours are formally defined as Fridays from 11:00 PM to 4:00 AM. They are, however, subject to change based on unique cases
 agreed upon by the owner (Joshua Ehling). Changes can involve extending either time constraint a maximum of 3 hours. 
 ## III Holiday Exception
-Whenever within 4 days of, as well as during, an acceptable holiday (enumerated below), Jeffrey is temporarily exempt from the terms of this contract. 
+Jeffrey is temporarily exempt from the terms of this contract for a 5 day period beginning two days before and expiring two days after a holiday (enumerated below). The 5th day includes the holiday itself. 
 - Acceptable holidays are as follows:
 	* Christmas
-	* Hanukkah (the date of the first night)
+	* Hanukkah (the first night)
 	* Easter
 	* Thanksgiving 
 	* Halloween 
+	* Martin Luther King Jr. Day
+	* Jeffrey's Birthday
+## IV Youtube 
+Jeffrey is limited to a maximum of 1 hour of daily cumulative viewing time for any media hosted  or embedded within Youtube, YoutubeHaiku, or any associated streaming service.
+## IV.A Youtube Academic Exception
+Use of the Youtube streaming service, as well as any derivatives, for the sole purpose of musical accompaniment during academic activities (defined below) does not contribute to the general hour limit on media consumption.

@@ -70,7 +70,9 @@ Jeffrey is hereby banned from any and all Anime consumption, unless otherwise st
 ## II.A Late Night Animoon Exception
 Jeffrey is *generally* permitted to view anime during the hours of an active Late Night Animoon session.
 These hours are formally defined as Fridays from 11:00 PM to 4:00 AM. They are, however, subject to change based on unique cases
-agreed upon by the owner (Joshua Ehling). Changes can involve extending either time constraint a maximum of 3 hours as well as declaring "impromptu Late Night Animoon" for special events, such as unique theater viewings.  
+agreed upon by the owner (Joshua Ehling). Changes can involve extending either time constraint a maximum of 3 hours. 
+## II.B Approved Anime Exception
+Jeffrey is only permitted to view anime outside of Late Night Animoon that has been specifically approved by the owner (Joshua Ehling) as well as co-officer Elijah Bendinsky.
 ## III Holiday Exception
 Jeffrey is temporarily exempt from the terms of this contract for a 5 day period beginning two days before and expiring two days after a holiday (enumerated below). The 5th day includes the holiday itself. 
 - Acceptable holidays are as follows:

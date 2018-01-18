@@ -2,6 +2,7 @@
 The following writing evinces the binding agreement in regards to the forbearances agreed upon by the offeree [Jeffrey Taglic]. 
 Formation of the contract occured at the handshake and mutual assent to be bound on 11/21/17 at 2:10 AM between the offeror [Joshua Ehling] 
 and the offeree [Jeffrey Taglic]. 
+The contract was reaffirmed by Jeffrey, with Liam Decker as witness, by handshake on 1/17/18.
 Jeffrey Taglic (henceforth "Jeffrey") agrees to forbear in accordance to the terms enumerated within the face of this instrument.
 
 # Enumeration of Parties

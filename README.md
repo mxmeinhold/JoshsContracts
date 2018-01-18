@@ -83,4 +83,5 @@ Jeffrey is temporarily exempt from the terms of this contract for a 5 day period
 ## IV Youtube 
 Jeffrey is limited to a maximum of 1 hour of daily cumulative viewing time for any media hosted  or embedded within Youtube, YoutubeHaiku, or any associated streaming service.
 ## IV.A Youtube Academic Exception
-Use of the Youtube streaming service, as well as any derivatives, for the sole purpose of musical accompaniment during academic activities (defined below) does not contribute to the general hour limit on media consumption.
+Use of the Youtube streaming service, as well as any derivatives, for the sole purpose of musical accompaniment during "academic activities" (defined below) does not contribute to the general hour limit on media consumption.
+- "Academic activities" are defined as: studying, working on homework, or otherwise viewing material related to RIT coursework. Research for, as well as working on, a major project is also considered academic activity.  

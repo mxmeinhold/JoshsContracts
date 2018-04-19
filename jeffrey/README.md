@@ -45,7 +45,7 @@ Any and all changes to this contract must be approved by either Joshua Ehling or
 ## I. General Video Game Ban
 Jeffrey is hereby banned from playing any and all video games, unless otherwise stated within this document. 
 Defined subsections preempt the general ban as subsets with additional restrictions. These restrictions are considered additions to the overall ban. 
-## I.A. Smash - Super Smash Bros.
+### I.A. Smash - Super Smash Bros.
 1. Jeffrey is banned from interacting with the Super Smash Bros. Franchise in any form: 
     * "interacting" defined as: 
     	- Viewing, spectating or otherwise playing any iteration of the franchise. 
@@ -67,11 +67,11 @@ Jeffrey is hereby banned from any and all Anime consumption, unless otherwise st
 	* funimation.com
 	* viz.com (VizAnime)
 	* roosterteeth.com
-## II.A Late Night Animoon Exception
+### II.A Late Night Animoon Exception
 Jeffrey is *generally* permitted to view anime during the hours of an active Late Night Animoon session.
 These hours are formally defined as Fridays from 10:00 PM to 4:00 AM. They are, however, subject to change based on unique cases
 agreed upon by the owner (Joshua Ehling). Changes can involve extending either time constraint a maximum of 3 hours. 
-## II.B Approved Anime Exception
+### II.B Approved Anime Exception
 Jeffrey is only permitted to view anime outside of Late Night Animoon that has been specifically approved by the owner (Joshua Ehling) as well as co-officer Elijah Bendinsky.
 ## III Holiday Exception
 Jeffrey is temporarily exempt from the terms of this contract for a 5 day period beginning two days before and expiring two days after a holiday (enumerated below). The 5th day includes the holiday itself. 
@@ -85,6 +85,6 @@ Jeffrey is temporarily exempt from the terms of this contract for a 5 day period
 	* Jeffrey's Birthday
 ## IV Youtube 
 Jeffrey is limited to a maximum of 1 hour of daily cumulative viewing time for any media hosted  or embedded within Youtube, YoutubeHaiku, or any associated streaming service.
-## IV.A Youtube Academic Exception
+### IV.A Youtube Academic Exception
 Use of the Youtube streaming service, as well as any derivatives, for the sole purpose of musical accompaniment during "academic activities" (defined below) does not contribute to the general hour limit on media consumption.
 - "Academic activities" are defined as: studying, working on homework, or otherwise viewing material related to RIT coursework. Research for, as well as working on, a major project is also considered academic activity.  
